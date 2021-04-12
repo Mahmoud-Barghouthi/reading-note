@@ -46,3 +46,17 @@
 #### to see more about Syntax of formatting and writing you can visit the link below
 [GitHubDocs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+
+# Creating your Website with GitHub
+
+To create your website please follow the following
+1. Sign in and create your own repositry.
+2. give this repository a special name to generate your website.
+3. To begin setting up your site, you have to open the Settings tab.
+4. scroll down on the settings page, you’ll see the GitHub Pages section near the bottom. Click the Choose a theme button to start the process of creating your site.
+5. Once you’ve clicked the button, you’ll be directed to the Theme Chooser. You’ll see several theme options in a carousel across the top of the page. Click on the images to preview the themes. Once you’ve selected one, click Select theme on the right to move on. It’s easy to change your theme later, so if you’re not sure, just choose one for now.
+![Theme](https://guides.github.com/features/pages/theme-chooser.png)
+6. write your own content (You can keep the default content for now, if you’d like).
+7. Once you’re finished editing, scroll down to the bottom of the page and click Commit changes.
+
+
