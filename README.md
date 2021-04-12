@@ -5,4 +5,5 @@
 ![Growth and Fixed Minds](FandG.png)
 #### what we can see from the picture is the follow:
 1. Challenges
-  1. Hello
+  1. Growth:Facing the problems give you one step ahead by working and discovering the solution then you will have more experience as we saw in the example with our friend who works with Jira.
+  2. Fixed: Avoiding the challenge will let you stay in the bottom because you will always rely on the comfront zone not be able to discover yourself and make a progress as our friend.
