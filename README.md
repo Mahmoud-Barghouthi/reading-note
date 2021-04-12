@@ -3,3 +3,6 @@
 
 #### This pciture shows the difference between the fixed mind and growth mind:
 ![Growth and Fixed Minds](FandG.png)
+#### what we can see from the picture is the follow:
+1. Challenges
+  1. Hello
