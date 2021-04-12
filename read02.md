@@ -81,7 +81,23 @@ To clone a repository into a directory with another name of your choosing, use t
 $ git clone https://github.com/test mydirectory
 The command above makes a copy of the target repository in a directory named “mydirectory.”
  
-### The Life Cycle of File Status
+### Workflow
+
+Local Repository Structure | Saving Changes
+------------ | -------------
+The Life Cycle of File Status | Check File Status
+Tracking and Staging a New File | Committing a File
+Committing All Changes | Pushing Changes
+Stashing Changes
+
+The Life Cycle of File Status
+
      1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
      2. You stage the modified file.
      3. Then, you commit staged changes.
+
+![Life Cycle](Life.png)
+
+For more details about the other concepts in the table, please follow the below link:
+
+###### [Getting Started](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
