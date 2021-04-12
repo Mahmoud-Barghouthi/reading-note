@@ -1,8 +1,8 @@
-# growth mindset 
+# Growth and Fixed Mindset
 #### describse the underlying beliefs people have about learning and intelligence. When students believe they can get smarter, they understand that effort makes them stronger,Therefore they put in extra time and effort, and that leads to higher achievement. On the othre hand, the fixed mind describes people who see their qualities as fixed traits that cannot change. With a fixed mindset, talent is enough to lead to success and effort to improve these talents isn’t required: one is born with a certain amount of skill and intelligence that can’t be improved upon.
 
-#### This pciture shows the difference between the fixed mind and growth mind:
-![Growth and Fixed Minds](FandG.png)
+#### This pciture shows the difference between the fixed and growth minds:
+![Growth and Fixed Mindset](FandG.png)
 #### what we can see from the picture is the follow:
 
 ### 1. Challenges
@@ -27,6 +27,22 @@
   ### 4. Critisim
   ![Critisim](Cri.jpg)
   
+ 
+  
        - Growth: the best QOUTE for me here to describe it, WHAT DOES NOT KILL YOU, MAKES YOU STRONG.
        - Fixed: Just ignore and not taking advantage of it.
        
+# Basic writing and formatting syntax
+  #### There are many Syntax and symboles that we can use for writing and formatting
+  1. Headings
+      - with headings we can change the size of the text by using 1 # - 6 # Hashtag.
+   
+  2. Styling Text
+      - to indicate emphasis with bold, italic, or strikethrough text.
+      
+  3. Qouting Text
+      - You can quote text with a >.
+
+#### to see more about Syntax of formatting and writing you can visit the link below
+[GitHubDocs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
