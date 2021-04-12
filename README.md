@@ -6,19 +6,27 @@
 #### what we can see from the picture is the follow:
 
 ### 1. Challenges
+![Challenge](Cha.png)
+
        - Growth: Facing the problems give you one step ahead by working and discovering the solution then you will have more experience as we saw in the example with our friend who works with Jira.
        - Fixed: Avoiding the challenge will let you stay in the bottom because you will always rely on the comfront zone not be able to discover yourself and make a progress as our friend.
   
 
 ### 2. Obstacles
+![Obstacles](Obs.png)
+
        - Growth: Growth mind will try to find a way to jump over the obstacles to carry on their missions and persists
        - Fixed: it will cause to lose your focus on the main mission and get lost
  
  ### 3. Effort
+ ![Effort](Eff.jpg)
+ 
        - Growth: No Pain No Gain is the same quote that I use to carry on to achieve my goals, I think it is one of the hardest thing to get because it requiresa huge effort and action.
        - Fixed: What is the exact opposite of effort is relief, relax nad being lazy and these will not develop any person to achieve his goals
        
   ### 4. Critisim
-       - Growth: the best QOUTE for me here to describe it, **WHAT DOES NOT KILL YOU, MAKES YOU STRONG**
+  ![Critisim](Cri.jpg)
+  
+       - Growth: the best QOUTE for me here to describe it, WHAT DOES NOT KILL YOU, MAKES YOU STRONG.
        - Fixed: Just ignore and not taking advantage of it.
        
