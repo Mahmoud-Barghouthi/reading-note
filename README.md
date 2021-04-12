@@ -26,9 +26,7 @@
        
   ### 4. Critisim
   ![Critisim](Cri.jpg)
-  
  
-  
        - Growth: the best QOUTE for me here to describe it, WHAT DOES NOT KILL YOU, MAKES YOU STRONG.
        - Fixed: Just ignore and not taking advantage of it.
        
