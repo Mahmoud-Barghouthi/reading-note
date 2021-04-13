@@ -12,7 +12,7 @@ In the table below, you can see the topics that I have discussed and summarized 
 
 No. | topics Title
 ------ | ------
-read 01 | Growth and Fixed Mindset
-read 02 | Version Control with GIT
+read 01 | [Growth and Fixed Mindset](read01.md)
+read 02 | [Version Control with GIT](read02.md)
 
 ![ASAC](ASAC.jpg)
