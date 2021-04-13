@@ -97,6 +97,45 @@ to have more information about Traditional HTML Layouts, See the image below
 ![New HTML Layouts](NTHL.jpg)
 
 
+### Headers & Footers
+
+The <header> and <footer>elements can be used for:
+* The main header or footer that appears at the top or bottom of every page on the site.
+* A header or footer for an individual <article> or <section> within the page.
+
+### Navigation
+
+The <nav> element is used to contain the major navigational blocks on the site such as the 
+primary site navigation.
+
+### Articles
+
+The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+### Sections
+The <section> element groups related content together, and typically each section would have its own heading
+
+### Heading Groups
+The purpose of the <hgroup>element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading
+
+### Figures
+You already met the <figure>element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images)
+
+### Sectioning Elements
+
+It may seem strange to follow these new elements by revisiting the <div> element again. (After all, the new elements are often going to be used in its place.)
+However, the <div> element will remain an important way to group together related elements because you should not be using these new elements that you have just met for purposes other than those explicitly stated. 
+
+### Linking Around Block-Level Elements
+
+HTML5 allows web page authors to place an <a> element around a block level element that contains child elements. This allows you to turn an entire block into a link.This is not a new element in HTML5, but it was not seen as a correct usage of the <a> element 
+in earlier versions of HTML.
+
+### Helping Older Browsers Understand
+
+Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered as block-level elements.
+
+
 
 
 
