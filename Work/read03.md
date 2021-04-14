@@ -121,6 +121,7 @@ The purpose of the <hgroup>element is to group together a set of one or more <h1
 ### Figures
 You already met the <figure>element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images)
 
+<<<<<<< HEAD
 ### Sectioning Elements
 
 It may seem strange to follow these new elements by revisiting the <div> element again. (After all, the new elements are often going to be used in its place.)
@@ -134,7 +135,6 @@ in earlier versions of HTML.
 ### Helping Older Browsers Understand
 
 Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered as block-level elements.
-
 
 
 
