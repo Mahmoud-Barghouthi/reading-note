@@ -52,8 +52,4 @@ BEHAVIOR layer| .js files This is where we can change how the page behaves, addi
 
 
 
-Basic JavaScript Introdution
-
-
-
 
