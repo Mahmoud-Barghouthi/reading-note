@@ -12,10 +12,11 @@
 ###### In the table below, you can see the topics that I have discussed and summarized during ASAC Internship:
 
   No. |  topics Title
-  ------ |  ------
- read 01 | [Growth and Fixed Mindset](read01.md)
- read 02 | [Version Control with GIT](read02.md)
- read 03 | [HTML & CSS](read03.md)
- read 04 | [JavaScript and Jquery](read04a.md)
+  ------  |  ------
+ read 01  | [Growth and Fixed Mindset](read01.md)
+ read 02  | [Version Control with GIT](read02.md)
+ read 03  | [HTML & CSS](read03.md)
+ read 04a | [JavaScript and Jquery](read04a.md)
+ read 04b | [How computers work](read04b.md)
 
 ![ASAC](ASAC.jpg)
