@@ -18,5 +18,6 @@
  read 03  | [HTML & CSS](read03.md)
  read 04a | [JavaScript and Jquery](read04a.md)
  read 04b | [How computers work](read04b.md)
+ read 05  | [Comparison and logical operators](read05.md)
 
 ![ASAC](ASAC.jpg)
