@@ -1,3 +1,4 @@
+
 ### WHAT IS A FUNCTION? 
 ##### Functions let you group a series of statements together to perform a specific task.
 
@@ -38,4 +39,3 @@
 ##### When you call a function that has parameters, you sepcify the calues it should use in the paranthese that follow its name.
 ##### see the below image for more information
 ![argments](arg.jpg)
-
