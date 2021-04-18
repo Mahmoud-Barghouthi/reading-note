@@ -85,5 +85,3 @@
 ###### Hardware are the things that we can see and touch inside the computers, like RAM, Graphic Card, keyboard, CPU and etc..
 
 ###### Software are things that can not be seen or touched, like programs or codes that running on the machines.
-
-#### How they interact with each other 
