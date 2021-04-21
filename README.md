@@ -21,6 +21,7 @@
  read 05  | [Comparison and logical operators](read05.md)
  read 06  | [Programming with JavaScript](read06.md)
  read 07  | [Introducing CSS & Colors](read07.md)
+ read 09  | [The Coder's Computer](read09.md)
 
 
 ![ASAC](ASAC.jpg)
