@@ -11,6 +11,8 @@
 
 ###### In the table below, you can see the topics that I have discussed and summarized during ASAC Internship:
 
+#### Code 102 Reading Notes
+
   No. |  topics Title
   ------  |  ------
  read 01  | [Growth and Fixed Mindset](read01.md)
@@ -22,7 +24,30 @@
  read 06  | [Programming with JavaScript](read06.md)
  read 07  | [Introducing CSS & Colors](read07.md)
  read 09  | [The Coder's Computer](read09.md)
- read201  | [Code 201 Reading Notes](read201.md)
+ 
+
+ ---------------------
+
+#### Code 201 Reading Notes
+
+  No. |  topics Title
+  ------  |  ------
+ read 201  | []()
+ read 202  | []()
+ read 203  | []()
+ read 204  | []()
+ read 205  | []()
+ read 206  | []()
+ read 207  | []()
+ read 208  | []()
+ read 209  | []()
+ read 210  | []()
+ read 211  | []()
+ read 212  | []()
+ read 213  | []()
+ read 214  | []()
+ read 215  | []()
+
 
 
 ![ASAC](ASAC.jpg)
