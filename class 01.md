@@ -27,9 +27,39 @@ What kind of device do they use to access the web?|How large is the budget they 
 
 ### How Often People Will Visit Your Site
 ##### Once a site has been built, it can take a lot of time and resources to update it frequently.Working out how often people are likely to revisit your site gives you an indication for how often you should update the site.
+-------
 
+#### 1. Site Maps
+##### The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site map and it will show how those pages can be grouped.
+#### 2. WireFrames
+##### A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+#### 3. Getting your message across using design
+##### The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
+#### 4. Visual hierarchy
+##### Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
 
+#### 4. grouping and Similarity
+##### When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. Here are some ways this can be achieved.
 
+#### 5. Designing Navigation
+##### Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. Good navigation tends to follow these principles...
+
+-------
+## What is ABC
+1st | 2nd
+--- | ---
+A | What is a script and how do I create one ?
+B | How do computers fit in with the world around them? 
+C | How do I write a script for a special webpage ?
+
+### A
+#### A script is a series of instructions that a computer can follow to achieve a goal. 
+
+### B
+#### COMPUTERS CREATE MODELS OF THE WORLD USING DATA
+
+### C 
+#### By using the HTML, CSS, & JAVASCRIPT
 -------------
 
 # HTML & CSS
