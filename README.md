@@ -32,7 +32,7 @@
 
   No. |  topics Title
   ------  |  ------
- class 01  | [Summerizing code 102](class 01.md)
+ class 01  | [Summerizing code 102](class01.md)
  class 02  | []()
  class 03  | []()
  class 04  | []()
