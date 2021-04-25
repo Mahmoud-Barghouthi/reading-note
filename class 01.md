@@ -145,3 +145,28 @@ Older browsers that do not know the new HTML5 elements will automatically treat 
 ---------------
 
 ##  Process and Design (Chapter 18)
+
+##### Before creating any webiste, we gotta know why we are creating it and for whom. We need to understand our audience to target them with the website.
+
+Two types to target your audience with WHAT QUEASTION
+
+individual | Company
+---- | -----
+What is the age range of your target audience? |  What is the size of the company or relevant department?
+Will your site appeal to more women or men? What is the mix?|What is the position of people in the company who visit your site?
+What is the average income of visitors?|Will visitors be using the site for themselves or for someone else?
+What kind of device do they use to access the web?|How large is the budget they control?
+
+
+-----
+### Why People are visitign your website ?
+##### Your content and design should be influenced by the goals of your users. Also, People are visiting any website that meet their goals and desires. for example: A guy who is looking for a food to order, will not visit any website that does not belong to foods.
+
+### Your content and design should be influenced by the goals of your users
+##### First you want to create a list of reasons why people would be coming to your site. You can then assign the list of tasks to the fictional visitors you created in the step described on the previous page.
+
+---
+### What Information Your Visitors Need
+##### You may want to offer additional supporting information that you think they might find helpful.Look at each of the reasons why people will be visiting your site and determine what they need to achieve their goals
+
+### How Often People Will Visit Your Site
