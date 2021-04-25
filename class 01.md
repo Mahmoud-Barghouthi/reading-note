@@ -1,3 +1,6 @@
+### Code 201 Reading Notes
+
+
 # HTML & CSS
 
 ## Structure 
@@ -38,6 +41,9 @@ To start Create a webpage on PC, follow these steps
 ![browser](ss.jpg)
 
 5. Yalaaa, your first webpage. Congrats
+--------------
+
+
 
 ## Extra Markup (Chapter 8)
 
@@ -81,6 +87,7 @@ Every HTML element can also carry a class attribute. Sometimes, rather than uniq
 ### Block Elements
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
+----------
 ## HTML5 Layout (Chapter 17)
 
 HTML5 is introducing a new set of elements that help define the structure of a page.
@@ -135,8 +142,6 @@ in earlier versions of HTML.
 
 Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered as block-level elements.
 
+---------------
 
-
-
-
-
+##  Process and Design (Chapter 18)
