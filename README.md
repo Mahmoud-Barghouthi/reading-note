@@ -33,7 +33,7 @@
   No. |  topics Title
   ------  |  ------
  class 01  | [Summerizing code 102](class 01.md)
- class 02  | []()
+ class 02  | [HTML Text, CSS Introduction, and Basic JavaScript ](class 02.md)
  class 03  | []()
  class 04  | []()
  class 05  | []()
