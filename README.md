@@ -34,7 +34,7 @@
   ------  |  ------
  class 01  | [Summerizing code 102](class 01.md)
  class 02  | [HTML Text, CSS Introduction, and Basic JavaScript ](class 02.md)
- class 03  | []()
+ class 03  | [HTML Lists, Control Flow with JS, and the CSS Box Model](class 03.md)
  class 04  | []()
  class 05  | []()
  class 06  | []()
