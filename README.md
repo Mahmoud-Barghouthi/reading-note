@@ -30,11 +30,11 @@
 
 #### Code 201 Reading Notes
 
-  No. |  topics Title
-  ------  |  ------
- class 01  | [Summerizing code 102](class 01.md)
- class 02  | [HTML Text, CSS Introduction, and Basic JavaScript ](class 02.md)
- class 03  | [HTML Lists, Control Flow with JS, and the CSS Box Model](class 03.md)
+No. |  topics Title
+------  |  ------
+ class 01  | [Summerizing code 102](class01.md)
+ class 02  | [HTML Text, CSS , and Basic JavaScript ](class02.md)
+ class 03  | [HTML Lists, and the CSS Box Model](class03.md)
  class 04  | []()
  class 05  | []()
  class 06  | []()
