@@ -32,9 +32,9 @@
 
 No. |  topics Title
 ------  |  ------
- class 01  | [Summerizing code 102](class01.md)
- class 02  | [HTML Text, CSS , and Basic JavaScript ](class02.md)
- class 03  | [HTML Lists, and the CSS Box Model](class03.md)
+ class 01  | [Summerizing code 102](https://mahmoud-barghouthi.github.io/reading-notes/class01)
+ class 02  | [HTML Text, CSS , and Basic JavaScript ](https://mahmoud-barghouthi.github.io/reading-notes/class02)
+ class 03  | [HTML Lists, and the CSS Box Model](https://mahmoud-barghouthi.github.io/reading-notes/class03)
  class 04  | []()
  class 05  | []()
  class 06  | []()
