@@ -36,7 +36,7 @@ No. |  topics Title
  class 02  | [HTML Text, CSS , and Basic JavaScript ](https://mahmoud-barghouthi.github.io/reading-notes/class02)
  class 03  | [HTML Lists, and the CSS Box Model](https://mahmoud-barghouthi.github.io/reading-notes/class03)
  class 04  | [HTML Links, JS Functions, and Intro to CSS Layout](https://mahmoud-barghouthi.github.io/reading-notes/class04)
- class 05  | []()
+ class 05  | [ Images, Color, Text](https://mahmoud-barghouthi.github.io/reading-notes/class05)
  class 06  | []()
  class 07  | []()
  class 08  | []()
