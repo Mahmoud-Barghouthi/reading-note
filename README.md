@@ -14,7 +14,7 @@
 #### Code 102 Reading Notes
 
   No. |  topics Title
-  ------  |  ------
+  ------  |  ------ 
  read 01  | [Growth and Fixed Mindset](read01.md)
  read 02  | [Version Control with GIT](read02.md)
  read 03  | [HTML & CSS](read03.md)
@@ -30,6 +30,8 @@
 
 #### Code 201 Reading Notes
 
+
+
 No. |  topics Title
 ------  |  ------
  class 01  | [Summerizing code 102](https://mahmoud-barghouthi.github.io/reading-notes/class01)
@@ -37,8 +39,13 @@ No. |  topics Title
  class 03  | [HTML Lists, and the CSS Box Model](https://mahmoud-barghouthi.github.io/reading-notes/class03)
  class 04  | [HTML Links, JS Functions, and Intro to CSS Layout](https://mahmoud-barghouthi.github.io/reading-notes/class04)
  class 05  | [ Images, Color, Text](https://mahmoud-barghouthi.github.io/reading-notes/class05)
+<<<<<<< HEAD
  class 06  | [Problem Domain, Objects, and the DOM](mahmoud-barghouthi.github.io/reading-notes/class06)
  class 07  | [Object-Oriented Programming, HTML Tables](mahmoud-barghouthi.github.io/reading-notes/class07)
+=======
+ class 06  | [Problem Domain, Objects, and the DOM](https://mahmoud-barghouthi.github.io/reading-notes/class06)
+ class 07  | []()
+>>>>>>> c6712bf9b0130a4596eed869e2ed307962b4b546
  class 08  | []()
  class 09  | []()
  class 10  | []()
@@ -51,5 +58,6 @@ No. |  topics Title
 -----------------------------------
 
 ![ASAC](ASAC.jpg)
+
 
 ###### © all the copyrights are reserved for MAHMOUD BARGHOUTHI, Have a seat OR YOU WILL GET SEWED
