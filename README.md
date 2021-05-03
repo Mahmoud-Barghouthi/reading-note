@@ -41,7 +41,7 @@ No. |  topics Title
  class 05  | [ Images, Color, Text](https://mahmoud-barghouthi.github.io/reading-notes/class05)
  class 06  | [Problem Domain, Objects, and the DOM](https://mahmoud-barghouthi.github.io/reading-notes/class06)
  class 07  | [Object-Oriented Programming, HTML Tables](https://mahmoud-barghouthi.github.io/reading-notes/class07)
- class 08  | []()
+ class 08  | [Layout](https://mahmoud-barghouthi.github.io/reading-notes/class08)
  class 09  | []()
  class 10  | []()
  class 11  | []()
