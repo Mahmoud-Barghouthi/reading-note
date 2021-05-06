@@ -43,7 +43,7 @@ No. |  topics Title
  class 07  | [Object-Oriented Programming, HTML Tables](https://mahmoud-barghouthi.github.io/reading-notes/class07)
  class 08  | [Layout](https://mahmoud-barghouthi.github.io/reading-notes/class08)
  class 09  | [Forms and Event ](https://mahmoud-barghouthi.github.io/reading-notes/class09)
- class 10  | []()
+ class 10  | [Error Handling and Debugging](https://mahmoud-barghouthi.github.io/reading-notes/class10)
  class 11  | []()
  class 12  | []()
  class 13  | []()
