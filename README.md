@@ -44,7 +44,7 @@ No. |  topics Title
  class 08  | [Layout](https://mahmoud-barghouthi.github.io/reading-notes/class08)
  class 09  | [Forms and Event ](https://mahmoud-barghouthi.github.io/reading-notes/class09)
  class 10  | [Error Handling and Debugging](https://mahmoud-barghouthi.github.io/reading-notes/class10)
- class 11  | []()
+ class 11  | [Assorted Topics](https://mahmoud-barghouthi.github.io/reading-notes/class11)
  class 12  | []()
  class 13  | []()
  class 14  | []()
