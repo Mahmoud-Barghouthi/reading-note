@@ -45,10 +45,10 @@ No. |  topics Title
  class 09  | [Forms and Event ](https://mahmoud-barghouthi.github.io/reading-notes/class09)
  class 10  | [Error Handling and Debugging](https://mahmoud-barghouthi.github.io/reading-notes/class10)
  class 11  | [Assorted Topics](https://mahmoud-barghouthi.github.io/reading-notes/class11)
- class 12  | []()
- class 13  | []()
- class 14  | []()
- class 15  | []()
+ class 12  | [Chart.js, Canvas](https://mahmoud-barghouthi.github.io/reading-notes/class12)
+ class 13  | [Local Storage](https://mahmoud-barghouthi.github.io/reading-notes/class13)
+ class 14  | [CSS Transforms, Transitions, and Animations](https://mahmoud-barghouthi.github.io/reading-notes/class14)
+ class 15  | [What Google Learned About Teams](https://mahmoud-barghouthi.github.io/reading-notes/class15)
 
 -----------------------------------
 
