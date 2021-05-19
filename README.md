@@ -47,8 +47,8 @@ No. |  topics Title
  class 11  | [Assorted Topics](https://mahmoud-barghouthi.github.io/reading-notes/class11)
  class 12  | [Chart.js, Canvas](https://mahmoud-barghouthi.github.io/reading-notes/class12)
  class 13  | [Local Storage](https://mahmoud-barghouthi.github.io/reading-notes/class13)
- class 14  | [CSS Transforms, Transitions, and Animations](https://mahmoud-barghouthi.github.io/reading-notes/class14)
- class 15  | [What Google Learned About Teams](https://mahmoud-barghouthi.github.io/reading-notes/class15)
+ class 14a | [CSS Transforms, Transitions, and Animations](https://mahmoud-barghouthi.github.io/reading-notes/class14a)
+ class 14b  | [What Google Learned About Teams](https://mahmoud-barghouthi.github.io/reading-notes/class14b)
 
 -----------------------------------
 
